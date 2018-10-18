@@ -1,4 +1,5 @@
 #Alberto Contreras Torres
+# Resuelve divisiones entre distintos dividendos y divisores y saca el número más grande
 
 
 def dividir(dividendo, divisor):
